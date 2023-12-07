@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <b><h3> Flask Starter </h3></b>
-  <p> Flask Starter is starter template to quickstart a Flask application locally also ready to deploy on <a href="https://vercel.com/" taret="_blank">vercel</a></p>
+  <p> Flask Starter is starter template to quickstart a Flask application locally</p>
 </div>
 
 ## Setup
@@ -20,6 +20,5 @@ pip install -r requirements.txt
 ```bash 
 python app.py
 ```
-
 
 
