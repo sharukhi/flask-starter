@@ -1,4 +1,6 @@
-from flask import * 
+from flask import *
+import requests
+import json 
 
 
 app = Flask(__name__)
@@ -9,3 +11,4 @@ def home():
 
 if __name__ == '__main__':
    app.run(debug=True)
+
